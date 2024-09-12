@@ -37,12 +37,18 @@ So we can conclude that $f(n) \in o(g(n)) \implies f(n) \in O(g(n))$.
 ## Plagiarism Acknowledgement
 - I started this by taking a look at https://github.com/COSC3020/little-o-proof-swilso59.git
 - I also looked online for definitions of Big O simply with a google search. I found these websites helpful.
+
   https://xlinux.nist.gov/dads/HTML/bigOnotation.html#:~:text=Definition%3A%20A%20theoretical%20measure%20of,multiple%20of%20g(n).
+ 
   https://web.mit.edu/16.070/www/lecture/big_o.pdf
+
 - I reviewed my previous repository and tried to explain it in a more clear manner.
 - I was curous about how other classmates were wording there proof so I had a look at a few. 
+
   https://github.com/COSC3020/little-o-proof-ZachRenz.git
+
   https://github.com/COSC3020/little-o-proof-egkallas.git
+
   https://github.com/COSC3020/little-o-proof-ZachRenz.git
 
 “I certify that I have listed all sources used to complete this exercise, including the use
